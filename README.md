@@ -44,10 +44,10 @@ The dataset includes various customer attributes such as service subscription de
 
 ## Project Structure
 
-1. data/ # Dataset directory from PwC
-2. PowerBI_Dashboard/ # PowerBI dashboard files
-3. analysis/ # Analysis scripts and notebooks
-4. README.md # The project's README file
+1. dataset: 01_churn_dataset
+2. PowerBI_Dashboard: Customer_churn_dashboard
+3. analysis
+4. README.md 
 
 ## Dashboard
 
